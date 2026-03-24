@@ -40,6 +40,22 @@ else if (numero<0){
 }else{
     System.out.println("El numero es cero");
 }
+//IF- ELSE- IF UTLIZANDO STRINGS//
+String curso="Matematicas";
+if(curso.equals("Biologia")){
+    System.out.println("Tu registro es al curso de biologia");
+}else if(curso.equals("Algebra")){
+    System.out.println("Es registro es al curso de algebra");
+}
+else if(curso.equals("Teatro")){
+        System.out.println("Es registro es al curso de teatro");
+        }
+else{
+    System.out.println("Curso no encontrado");
+}
+    
+
+
         System.out.println("Codigo creado por mejia");
     
     }}
