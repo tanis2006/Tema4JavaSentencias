@@ -39,7 +39,12 @@ else if (numero<0){
     System.out.println("el numero" + numero +"es negativo");
 }else{
     System.out.println("El numero es cero");
-}}}
+}
+        System.out.println("Codigo creado por mejia");
+    
+    }}
+
+
 
 
 
